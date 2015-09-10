@@ -1,0 +1,5 @@
+ON schema_migrations AFTER INSERT,UPDATE
+AS
+BEGIN
+  SELECT 1 as id
+END
