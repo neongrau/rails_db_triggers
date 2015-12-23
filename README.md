@@ -1,3 +1,8 @@
+# THIS GEM IS NOW OBSOLETE!
+Unless all you ever need is triggers this gem is obsoleted with the release of https://github.com/neongrau/rails_db_objects
+where you can manage not only triggers but also views, functions, stored procedures, assemblies or basically do anything with plain custom SQL that does not fit into regular migrations.
+# THIS GEM IS NOW OBSOLETE!
+
 # rails_db_triggers
 Manage db triggers in Rails
 
